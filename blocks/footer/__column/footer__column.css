@@ -1,0 +1,6 @@
+.footer__column {
+  flex-basis: 711px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}

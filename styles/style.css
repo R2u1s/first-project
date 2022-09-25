@@ -1,0 +1,30 @@
+body, h1,h2,h3,h4,p,a {
+  margin: 0;
+  font-size: 100%;
+  font-weight: normal;
+}
+
+/*div,h3, section, a {
+  border: 1px solid red;
+}*/
+
+.font-container_font_inter {
+  font-family: 'Inter',serif;
+  z-index: 100;
+}
+
+.font-container__text_weight_normal {
+  font-weight: normal
+}
+
+.font-container__text_weight_semibold {
+  font-weight: 500;
+}
+
+.font-container__text_weight_bold {
+  font-weight: bold;
+}
+
+.font_white {
+  color: white;
+}

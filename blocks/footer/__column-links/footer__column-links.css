@@ -1,0 +1,11 @@
+.footer__column-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: white;
+  background-color: black;
+  margin-top:20px;
+  margin-bottom:16px;
+  margin-left:0;
+  margin-right:0;
+}
