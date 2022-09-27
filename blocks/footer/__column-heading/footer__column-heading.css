@@ -6,4 +6,5 @@
   margin:0;
   padding-top: 5px;
   white-space: nowrap; /*чтобы при сжатии окна не было переноса на новую строку*/
+  font-weight: bold;
 }

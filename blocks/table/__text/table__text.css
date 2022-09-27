@@ -1,8 +1,11 @@
 .table__text {
+    margin:0;
     font-size: 18px;
     line-height: 1.2;
     font-weight: normal;
-    background: none;
     z-index: 100;
-    background: none;
+  }
+
+  .table__text:first-of-type {
+    margin-bottom: 20px;
   }
